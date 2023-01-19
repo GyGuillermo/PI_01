@@ -1,0 +1,1 @@
+{"id":"e722f51c-6cf9-48e6-b6b8-cb4e75305656","space":48369,"runtime":"python3.9","name":"PI_01","path":"tp4fwf","project":"e0duizkh","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas","numpy","datetime","polars"],"envs":null,"public":true,"log_level":"debug","cron":""}
